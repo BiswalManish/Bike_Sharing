@@ -1,0 +1,5 @@
+ .DS_Store
+ src/__pycache__
+ notebooks/.ipynb_checkpoints
+
+ 
